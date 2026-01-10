@@ -29,13 +29,4 @@
 - O(n³) pour grands datasets → sous-échantillonnage nécessaire
 - Laplacien non normalisé sensible aux degrés
 
-SLIDES :
 
-Slides Structure (PowerPoint/Google Slides)
-Slide 1: Titre + Spectral Clustering Pipeline [chart:21]
-Slide 2: Dataset KDDCup99 (intrusion detection)
-Slide 3: Prétraitement + Baseline K-means
-Slide 4: Implémentation Spectral (noyau → Laplacien → K-means)
-Slide 5: Résultats (tableau métriques + viz PCA)
-Slide 6: Hyperparamètres + Validation croisée
-Slide 7: Limitations + Perspectives
